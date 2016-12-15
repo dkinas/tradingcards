@@ -19,22 +19,13 @@ h2 {
   line-height: 1;
   margin-bottom: 0;
   font-size: 15px;
-  padding-bottom: 25px;
+
   }
-  .h2 {
-  line-height: 1;
-  margin-bottom: 0;
-  font-size: 15px;
-  padding-bottom: 25px;
   
-  }
+  
 
 .card {
 	color: #CCCCCC;
-	padding-right: 10px;
+	padding-right: 1px;
 }
 
-img {
-	height: 200px;
-	width: 200px;
-}
